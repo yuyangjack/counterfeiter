@@ -4,7 +4,7 @@ package fixturesfakes
 import (
 	"sync"
 
-	"github.com/maxbrunsfeld/counterfeiter/v6/fixtures"
+	"github.com/yuyangjack/counterfeiter/fixtures"
 )
 
 type FakeSomethingElse struct {

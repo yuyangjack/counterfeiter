@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/maxbrunsfeld/counterfeiter/v6/arguments"
-	"github.com/maxbrunsfeld/counterfeiter/v6/generator"
+	"github.com/yuyangjack/counterfeiter/arguments"
+	"github.com/yuyangjack/counterfeiter/generator"
 )
 
 func BenchmarkWithoutCache(b *testing.B) {

@@ -1,4 +1,4 @@
-module github.com/maxbrunsfeld/counterfeiter
+module github.com/yuyangjack/counterfeiter
 
 require (
 	github.com/golang/protobuf v1.3.1 // indirect

@@ -11,9 +11,9 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/maxbrunsfeld/counterfeiter/v6/arguments"
-	"github.com/maxbrunsfeld/counterfeiter/v6/command"
-	"github.com/maxbrunsfeld/counterfeiter/v6/generator"
+	"github.com/yuyangjack/counterfeiter/arguments"
+	"github.com/yuyangjack/counterfeiter/command"
+	"github.com/yuyangjack/counterfeiter/generator"
 )
 
 func main() {

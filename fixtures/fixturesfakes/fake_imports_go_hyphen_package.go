@@ -4,8 +4,8 @@ package fixturesfakes
 import (
 	"sync"
 
-	"github.com/maxbrunsfeld/counterfeiter/v6/fixtures"
-	hyphenpackage "github.com/maxbrunsfeld/counterfeiter/v6/fixtures/go-hyphenpackage"
+	"github.com/yuyangjack/counterfeiter/fixtures"
+	hyphenpackage "github.com/yuyangjack/counterfeiter/fixtures/go-hyphenpackage"
 )
 
 type FakeImportsGoHyphenPackage struct {
